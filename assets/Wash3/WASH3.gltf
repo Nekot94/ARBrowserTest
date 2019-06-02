@@ -691,13 +691,14 @@
             }
         },
         {
+            "alphaMode" : "BLEND",
             "name" : "barban",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.9,
                     0.2,
                     0.2,
-                    1
+                    0
                 ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.858578622341156
