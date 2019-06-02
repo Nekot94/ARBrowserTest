@@ -698,7 +698,7 @@
                     0.9,
                     0.2,
                     0.2,
-                    0
+                    1
                 ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.858578622341156
@@ -790,7 +790,7 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 24,
+                        "POSITION" : 0,
                         "NORMAL" : 25,
                         "TEXCOORD_0" : 26
                     },
